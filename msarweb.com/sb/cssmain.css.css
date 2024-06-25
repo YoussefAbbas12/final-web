@@ -5020,6 +5020,7 @@ owl-carousel-o {
     margin-bottom: 25px;
     cursor: pointer;
     transition: 1s;
+    height: 400px;
 }
 
 .news img{
